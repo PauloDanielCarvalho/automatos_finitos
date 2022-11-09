@@ -1,0 +1,9 @@
+1-rode o arquivo main.py
+2-arquivos automatodfa.txt e automatonfa.txt possuem exemplos mas podem ser alterados pelo automato de sua escolha seguindo o mesmo padrao
+3-escolha a opcao que deseja testar
+obs:as transitions n aceitam s0:c>s3,s1, correto:s0:c>s3, s0:c>s1
+
+Integrantes:
+Paulo Daniel 
+Duarte Thiago
+Pedro Henrique
